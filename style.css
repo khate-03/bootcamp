@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+    
+}
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    padding: 10px;
+}
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h1,h2
+{
+    text-align: center;
+    
+}
+div
+{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+button
+{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    color: rgb(14, 17, 17);
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+
